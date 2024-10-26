@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowMore App</string>
+    <string name="long_text">  • Layout Editor: Visual drag-and-drop interface design with XML support. \n \n
+        • Gradle Build System: Automated builds and flexible dependency management.\n\n
+         • Android Emulator: Test apps on various virtual devices and configurations.\n\n
+      • Debugging Tools: Advanced debugging, memory and CPU profilers, performance monitoring.</string>
+</resources>
